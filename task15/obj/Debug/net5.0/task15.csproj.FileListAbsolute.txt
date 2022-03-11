@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/task15.deps.json
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/task15.runtimeconfig.json
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/task15.runtimeconfig.dev.json
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/task15.dll
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/ref/task15.dll
+/Users/orkhangahramanli/Projects/task15/bin/Debug/net5.0/task15.pdb
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.AssemblyInfo.cs
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.dll
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/ref/task15.dll
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.pdb
+/Users/orkhangahramanli/Projects/task15/obj/Debug/net5.0/task15.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/task13.deps.json
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/task13.runtimeconfig.json
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/task13.runtimeconfig.dev.json
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/task13.dll
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/ref/task13.dll
+/Users/orkhangahramanli/Projects/task13/bin/Debug/net5.0/task13.pdb
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.AssemblyInfo.cs
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.dll
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/ref/task13.dll
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.pdb
+/Users/orkhangahramanli/Projects/task13/obj/Debug/net5.0/task13.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/task11.deps.json
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/task11.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/task11.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/task11.dll
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/ref/task11.dll
+/Users/orkhangahramanli/Desktop/task11/bin/Debug/net5.0/task11.pdb
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.dll
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/ref/task11.dll
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.pdb
+/Users/orkhangahramanli/Desktop/task11/obj/Debug/net5.0/task11.genruntimeconfig.cache

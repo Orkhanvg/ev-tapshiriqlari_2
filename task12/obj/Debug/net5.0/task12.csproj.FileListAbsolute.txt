@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/task12.deps.json
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/task12.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/task12.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/task12.dll
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/ref/task12.dll
+/Users/orkhangahramanli/Desktop/task12/bin/Debug/net5.0/task12.pdb
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.dll
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/ref/task12.dll
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.pdb
+/Users/orkhangahramanli/Desktop/task12/obj/Debug/net5.0/task12.genruntimeconfig.cache

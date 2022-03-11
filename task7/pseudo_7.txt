@@ -1,0 +1,26 @@
+program task_7
+
+set a = 54436
+set b = 46463
+
+  
+if condition  a>9999 && a<100000 and b > 9999 && b < 100000 and
+c>9999 && c<100000
+
+5 reqemlidir
+
+else
+
+5 reqemli deyil
+
+end if
+
+CALCULATE c = a + b
+CALCULATE d = c + 500000 * 10 + 5
+CALCULATE e = d * 5 / 100
+
+
+display  e
+
+end program
+

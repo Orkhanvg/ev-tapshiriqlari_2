@@ -1,0 +1,21 @@
+program task_2
+
+set a = 444
+
+
+  
+if condition  a>99 && a<1000 
+
+
+3 reqemli deyil
+else
+
+3 reqemlidir
+end if
+
+CALCULATE b = a * 1000 + a
+
+display  b
+
+end program
+

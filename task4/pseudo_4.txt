@@ -1,0 +1,24 @@
+program task_4
+
+set a = 196
+
+
+  
+if condition  a>99 && a<1000 
+
+
+3 reqemlidir
+
+else
+
+3 reqemli deyil
+
+end if
+
+CALCULATE c = b * 7 / 100
+
+
+display  c
+
+end program
+

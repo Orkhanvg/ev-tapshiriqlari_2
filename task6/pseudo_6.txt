@@ -1,0 +1,26 @@
+program task_6
+
+set a = 6463
+
+
+  
+if condition  a>999 && a<10000 
+
+
+4 reqemlidir
+
+else
+
+4 reqemli deyil
+
+end if
+
+CALCULATE  b = a * 20 / 100
+CALCULATE c = b * 10 / 100
+CALCULATE d = c * b
+
+
+display  d
+
+end program
+

@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/task10.deps.json
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/task10.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/task10.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/task10.dll
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/ref/task10.dll
+/Users/orkhangahramanli/Desktop/task10/bin/Debug/net5.0/task10.pdb
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.dll
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/ref/task10.dll
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.pdb
+/Users/orkhangahramanli/Desktop/task10/obj/Debug/net5.0/task10.genruntimeconfig.cache

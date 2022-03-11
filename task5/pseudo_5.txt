@@ -1,0 +1,26 @@
+program task_5
+
+set a = 9876
+
+
+  
+if condition  a>999 && a<10000 
+
+
+4 reqemlidir
+
+else
+
+4 reqemli deyil
+
+end if
+
+CALCULATE  b = 40000 + a
+CALCULATE c = b * 100 + 44
+CALCULATE d = c * 44 / 100
+
+
+display  d
+
+end program
+

@@ -1,0 +1,23 @@
+program task_2
+
+set a = 4943
+
+
+  
+if condition  a>999 && a<10000 
+
+
+4 reqemli deyil
+
+else
+
+4 reqemlidir
+
+end if
+
+CALCULATE b = (a + 70000) * 10 + 8
+
+display  b
+
+end program
+

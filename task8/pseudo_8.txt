@@ -1,0 +1,27 @@
+program task_8
+
+set a = 585484
+set b = 439894
+set c = 390944
+  
+if condition  a>99999 && a<1000000 and b > 99999 && b < 1000000 and
+c>99999 && c<1000000
+
+6 reqemlidir
+
+else
+
+6 reqemli deyil
+
+end if
+
+CALCULATE e = a * 10 / 100
+CALCULATE f = b * 10 / 100;
+CALCULATE g = c * 10 / 100;
+CALCULATE h = e + f + g;
+CALCULATE l = h * 10 / 100;
+
+display  l
+
+end program
+

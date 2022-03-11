@@ -1,0 +1,23 @@
+program task_3
+
+set a = 83484
+
+
+  
+if condition  a>9999 && a<100000 
+
+
+5 reqemlidir
+else
+
+5 reqemli değil
+end if
+
+CALCULATE b = a * 18 / 100
+CALCULATE c = b * 3 / 100
+
+
+display  c
+
+end program
+

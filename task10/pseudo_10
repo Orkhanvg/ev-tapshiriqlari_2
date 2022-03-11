@@ -1,0 +1,29 @@
+program task_10
+
+set a = 9354
+set b = 9003
+set c = 4046
+  
+if condition  a <= 9999 && a > 999 and 
+b <= 9999 && b > 999 and
+ c <= 9999 && c > 999
+
+5 reqemli deyil
+
+else
+
+5 reqemlidir
+
+end if
+
+CALCULATE d = a * 1 / 100
+CALCULATE e = b * 2 / 100
+CALCULATE f = c * 3 / 100
+CALCULATE g = d - e - f
+CALCULATE h = c * 7 / 100
+CALCULATE l = g + h
+
+display  l
+
+end program
+

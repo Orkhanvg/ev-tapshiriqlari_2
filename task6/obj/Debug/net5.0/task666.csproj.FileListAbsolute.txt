@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/task666.deps.json
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/task666.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/task666.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/task666.dll
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/ref/task666.dll
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/bin/Debug/net5.0/task666.pdb
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.dll
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/ref/task666.dll
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.pdb
+/Users/orkhangahramanli/Desktop/homework_01_03_2022/task666/obj/Debug/net5.0/task666.genruntimeconfig.cache

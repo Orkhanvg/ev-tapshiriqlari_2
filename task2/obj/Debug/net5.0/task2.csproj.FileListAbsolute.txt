@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/task2.deps.json
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/task2.runtimeconfig.json
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/task2.runtimeconfig.dev.json
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/task2.dll
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/ref/task2.dll
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/bin/Debug/net5.0/task2.pdb
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.AssemblyInfo.cs
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.dll
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/ref/task2.dll
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.pdb
+/Users/orkhangahramanli/Projects/homework-01-03-2022/task2/obj/Debug/net5.0/task2.genruntimeconfig.cache
